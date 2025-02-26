@@ -10,6 +10,7 @@ def apikeyProperties = new Properties()
 apikeyProperties.load(new FileInputStream(apikeyPropertiesFile))
 
 android {
+    namespace "com.codepath.articlesearch"
     compileSdk 32
 
     defaultConfig {
@@ -32,6 +33,7 @@ android {
     }
 
     buildFeatures {
+        buildConfig = true
         viewBinding = true
     }
 
