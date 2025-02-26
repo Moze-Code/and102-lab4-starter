@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] Article images are downloaded and displayed using Glide
 
 ## Video Walkthrough
-<img src= '' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src= 'https://github.com/Moze-Code/and102-lab4-starter/blob/unit-lab-4/AricleSearch.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with **ScreenPal**
 
