@@ -1,0 +1,36 @@
+# Unit-project-2 - *ArticleSearch*
+
+Submitted by: **Omoze Oyarebu**
+
+**ArticleSearch** is an android app that lets users see articles from the new york times.
+
+Time spent: **2** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] Articles are displayed using the RecyclerView
+- [x] Can navigate to the Article Details screen
+- [x] Article images are downloaded and displayed using Glide
+
+## Video Walkthrough
+<img src= '' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+
+GIF created with **ScreenPal**
+
+## License
+
+    Copyright 2025 Omoze Oyarebu
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
