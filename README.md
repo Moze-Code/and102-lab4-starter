@@ -1,4 +1,4 @@
-# Unit-project-2 - *ArticleSearch*
+# Unit-lab-4 - *ArticleSearch*
 
 Submitted by: **Omoze Oyarebu**
 
