@@ -1,8 +1,8 @@
-# Unit-lab-4 - *ArticleSearch*
+# Unit-lab-5 - *ArticleSearch pt2*
 
 Submitted by: **Omoze Oyarebu**
 
-**ArticleSearch 2** is an android app that lets users see articles from the new york times.
+**ArticleSearch 2** iextends the first version. This version allows users to get see articles with internet by using a local database.
 
 Time spent: **2** hours spent in total
 
