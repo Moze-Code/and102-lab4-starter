@@ -2,7 +2,7 @@
 
 Submitted by: **Omoze Oyarebu**
 
-**ArticleSearch** is an android app that lets users see articles from the new york times.
+**ArticleSearch 2** is an android app that lets users see articles from the new york times.
 
 Time spent: **2** hours spent in total
 
