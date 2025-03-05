@@ -10,12 +10,11 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] Articles are displayed using the RecyclerView
-- [x] Can navigate to the Article Details screen
-- [x] Article images are downloaded and displayed using Glide
+- [x] Most recently fetched data is stored locally in a database
+- [x] If user turns on airplane mode and closes and reopens app, old data from the database should be loaded
 
 ## Video Walkthrough
-<img src= 'https://github.com/Moze-Code/and102-lab4-starter/blob/unit-lab-4/AricleSearch.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src= 'https://github.com/Moze-Code/and102-lab4-starter/blob/unit-lab-5/ArticleSearch%202.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with **ScreenPal**
 
